@@ -7,7 +7,7 @@
 
 ## Created by Atul
 
-## Installation instructions
+## Installation instructions(For linux)
  ### Clone the repo
   ```bash
   git clone https://github.com/A-Unix/NetworkMonitor.git
